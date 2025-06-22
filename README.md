@@ -24,11 +24,11 @@ EthioMart is building Ethiopia’s first AI-powered e-commerce intelligence plat
 
 ## 📁 Repository Structure
 
-week_4/
-├── data/
-│ ├── scrapped/ 
+week_4/  
+├── data/  
+│ ├── scrapped/  
 │ └── cleaned/  
-| └── photos/   
+| └── photos/  
 ├── scripts/  
 │ └── telegram_scraper.py  
 | └── preprocessing_tokenization.ipynb   
